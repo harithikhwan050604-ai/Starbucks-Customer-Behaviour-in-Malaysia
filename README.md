@@ -45,5 +45,5 @@ visualisation and analysis.
   Visual Storytelling, Segment Analysis
 
 ## 👤 Author
-Muhammad Nurhilman Bin Mohd Rozalee
-hilmanrozalee7@gmail.com
+Harith Ikhwan bin Suhaimi
+harithikhwan050604@gmail.com
